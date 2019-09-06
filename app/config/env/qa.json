@@ -1,0 +1,60 @@
+{
+    "ServerConfig": {
+        "hms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "ums_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "fms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "gms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "oms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "pms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "cms_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "ims_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "fts_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "google_srv": {
+            "protocol": "https",
+            "server": "maps.googleapis.com"
+        },
+        "ps_srv": {
+            "protocol": "http",
+            "server": "someip"
+        },
+        "torpedo_srv": {
+            "protocol": "http",
+            "server": "someip"
+        }
+    },
+    "logging": {
+        "label": "XMS",
+        "consoleLevel": "error",
+        "fileLevel": "error"
+    },
+    "testConfig": true,
+    "flightProductUrl": "//someip",
+    "elasticSearchApiUrl": "10.10.18.141:9200"
+}
