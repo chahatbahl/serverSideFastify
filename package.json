@@ -17,7 +17,7 @@
         "fastify-static": "2.5.0",
         "jsonwebtoken": "^8.5.1",
         "jwt-decode": "2.2.0",
-        "lodash": "4.17.11",
+        "lodash": "4.17.19",
         "moment": "2.22.2",
         "nconf": "0.8.4",
         "point-of-view": "^3.5.0",
